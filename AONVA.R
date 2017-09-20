@@ -1,4 +1,4 @@
-setwd("/Users/carmenlouise/Documents/R/R-exercises")
+setwd("")
 
 # Load the data and inspect its structure
 df <- read.csv("exer-1.csv")
